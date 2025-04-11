@@ -1,0 +1,10 @@
+.aboutHeader {
+  height: 40vh;
+  background-image: url("../../assets/blog-img-1.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
